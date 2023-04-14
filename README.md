@@ -4,7 +4,7 @@ A personal portfolio website written with React.js & Animate.css. The online web
 
 Home page:
 
-![Alt text](https://github.com/shuw1101/personal_portfolio/blob/main/demo/home.png)
+![Alt text](https://github.com/shuw1101/personal_portfolio/blob/main/demo/homePage.png)
 
 Projects page:
 
