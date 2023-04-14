@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container, Col } from "react-bootstrap";
-import navIcon1 from '../assets/img/nav-icon1.svg';
-import { HashLink } from 'react-router-hash-link';
+import linkedin from '../assets/img/linkedin.png';
+import github from '../assets/img/github.png';
 import {
   BrowserRouter as Router
 } from "react-router-dom";
@@ -49,7 +49,8 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/shuwenguan/"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.linkedin.com/in/shuwenguan/"><img src={linkedin} alt="" /></a>
+                <a href="https://github.com/shuw1101/personal_portfolio"><img src={github} alt="" /></a>
               </div>
               <a href="https://www.linkedin.com/in/shuwenguan/">
               {/* <HashLink tp='#contact'> */}
