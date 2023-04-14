@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio/static/css/main.b565fd4f.css",
+    "main.js": "/personal_portfolio/static/js/main.df421142.js",
+    "static/js/787.fb771931.chunk.js": "/personal_portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/movie_reco.png": "/personal_portfolio/static/media/movie_reco.612e5189400ce68c7e35.png",
+    "static/media/color-sharp.png": "/personal_portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/blog.png": "/personal_portfolio/static/media/blog.01ffccff7ea7fc28c39f.png",
+    "static/media/color-sharp2.png": "/personal_portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/bike_manage_img.png": "/personal_portfolio/static/media/bike_manage_img.46c2ff4e48cbf4fb1894.png",
+    "static/media/banner-bg.png": "/personal_portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/personal_portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal_portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal_portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/personal_portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/personal_portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/personal_portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal_portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal_portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/personal_portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/personal_portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/personal_portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/backend1.svg": "/personal_portfolio/static/media/backend1.8954da44c371928168082f0b7c192109.svg",
+    "static/media/frontend2.svg": "/personal_portfolio/static/media/frontend2.25dabe7395133477c5b88a3a050a3aa8.svg",
+    "index.html": "/personal_portfolio/index.html",
+    "static/media/nav-icon1.svg": "/personal_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/personal_portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/personal_portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.b565fd4f.css.map": "/personal_portfolio/static/css/main.b565fd4f.css.map",
+    "main.df421142.js.map": "/personal_portfolio/static/js/main.df421142.js.map",
+    "787.fb771931.chunk.js.map": "/personal_portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b565fd4f.css",
+    "static/js/main.df421142.js"
+  ]
+}
