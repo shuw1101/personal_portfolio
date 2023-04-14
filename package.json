@@ -1,6 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
+  "homepage": "https://shuw1101.github.io/personal_portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
@@ -15,6 +16,7 @@
     "bootstrap": "^5.1.3",
     "cors": "^2.8.5",
     "express": "^4.18.1",
+    "gh-pages": "^5.0.0",
     "nodemailer": "^6.7.5",
     "react": "^18.1.0",
     "react-bootstrap": "^2.4.0",
@@ -32,6 +34,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
