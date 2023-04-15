@@ -41,7 +41,7 @@ export const Projects = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
-                <h2>Projects & Experience</h2>
+                <h2>Sample Projects</h2>
                 <p>
                 I am a highly motivated software engineer with a passion for exploring and learning new technologies. I am constantly seeking to expand my knowledge and skills in order to create innovative and efficient solutions. 
                 </p>
@@ -76,10 +76,10 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
-                      <p>To be added in the future.</p>
+                      <p>Constantly learning and developing.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>To be added in the future.</p>
+                      <p>Constantly learning and developing.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
