@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container, Col } from "react-bootstrap";
 import linkedin from '../assets/img/linkedin.png';
-import github from '../assets/img/github.png';
+import github from '../assets/img/github4.png';
 import {
   BrowserRouter as Router
 } from "react-router-dom";
