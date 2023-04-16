@@ -41,7 +41,7 @@ export const Projects = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
-                <h2>Sample Projects</h2>
+                <h2>Recent Projects</h2>
                 <p>
                 I am a highly motivated software engineer with a passion for exploring and learning new technologies. I am constantly seeking to expand my knowledge and skills in order to create innovative and efficient solutions. 
                 </p>
