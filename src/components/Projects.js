@@ -4,6 +4,7 @@ import { ProjectCard } from "./ProjectCard";
 import bike_manage_img from "../assets/img/bike_manage_img.png";
 import movie_img from "../assets/img/movie_reco.png";
 import blog_img from "../assets/img/blog.png";
+import portfolio_img from "../assets/img/portfolio.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -28,6 +29,12 @@ export const Projects = () => {
       description: "The blog platform comprises two websites: one for administrators to manage blogs, and the other for the public to read them. It enables various functions like blog posting, deletion, comment management, and keyword-based article search.",
       imgUrl: blog_img,
       moreLink:"https://github.com/shuw1101/Personal_Blog_Platform"
+    },
+    {
+      title: "Personal Portfolio",
+      description: "A personal portfolio website (the one you're currently visiting) designed to showcase my skills, share my projects, and connect with others. It was built using React.js, HTML5, Animate.css, and Email.js. ",
+      imgUrl: portfolio_img,
+      moreLink:"https://github.com/shuw1101/personal_portfolio"
     },
    
   
