@@ -22,7 +22,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = ["Platform Developer","Software Engineer","Passionate & Fast Learner"];
+  const toRotate = ["Full-Stack Developer","Software Engineer","Passionate & Fast Learner"];
   const period = 2000;
 
   useEffect(() => {
@@ -67,7 +67,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">About Me</span>
-                <h1>{`Hi! I'm Shuwen,`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["Platform Developer","Passionate & Fast Learner"]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hi! I'm Shuwen,`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["Full-Stack Developer","Passionate & Fast Learner"]'><span className="wrap">{text}</span></span></h1>
                   <p>I am a dedicated and quick learner who strives to create impactful products and solve real-world technical issues. I am always eager to learn and welcome any challenging and interesting opportunities.</p>
                   <button onClick={() => window.location.assign("https://www.linkedin.com/in/shuwenguan/")}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
