@@ -53,8 +53,8 @@ export const Skills = () => {
                             <div className="item">
                               <span className="skilltagline">Backend Development</span>
                               <ul className = "skilllist">
-                                <li>Spring Boot(MVC)</li>
-                                <li>Spring Cloud</li>
+                                <li>Spring Boot/Cloud(MVC)</li>
+                                <li>Node.js/Express.js</li>
                                 <li>Flask</li>
                                 <li>Django</li>
                                 <li>Microsoft .NET</li>
@@ -65,7 +65,7 @@ export const Skills = () => {
                                 <ul className = "skilllist">
                                   <li>Amazon Web Service(AWS)</li>
                                   <li>Microsoft Azure</li>
-                                  <li>CDK Programming</li>
+                                  <li>Google Cloud Platform</li>
                                 </ul>
                             </div>
                             <div className="item">
