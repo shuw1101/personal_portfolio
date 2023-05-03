@@ -45,8 +45,8 @@ export const Skills = () => {
                                 <ul className = "skilllist">
                                   <li>React.JS</li>
                                   <li>Angular.JS</li>
-                                  <li>Animate.css</li>
-                                  <li>HTML5</li>
+                                  <li>Vue.JS</li>
+                                  <li>HTML5/CSS3</li>
                                 </ul>
 
                             </div>
@@ -54,9 +54,8 @@ export const Skills = () => {
                               <span className="skilltagline">Backend Development</span>
                               <ul className = "skilllist">
                                 <li>Spring Boot/Cloud(MVC)</li>
-                                <li>Node.js/Express.js</li>
-                                <li>Flask</li>
-                                <li>Django</li>
+                                <li>Node.js/Express.js/Next.js</li>
+                                <li>Flask & Django</li>
                                 <li>Microsoft .NET</li>
                               </ul>
                             </div>
@@ -72,12 +71,12 @@ export const Skills = () => {
                               <span className="skilltagline">Databases & Big Data</span>
                                   <ul className = "skilllist">
                                     <li>PostgreSQL & GraphQL</li>
+                                    <li>Microsoft SQL Server & T-SQL</li>
                                     <li>MySQL</li>
-                                    <li>Hadoop & HBase</li>
+                                    <li>Hadoop & HBase & Kafka</li>
                                     <li>Redis</li>
                                     <li>MongoDB</li>
                                     <li>Elastic Search</li>
-                                    <li>Kafka</li>
                                   </ul>
                             </div>
                             <div className="item">
