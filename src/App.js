@@ -14,8 +14,8 @@ function App() {
       
       <NavBar />
       <Banner />
-      <Skills />
       <Projects />
+      <Skills />
       {/* <Contact /> */}
       {/* <ERouter /> */}
 
