@@ -42,34 +42,34 @@ export const Skills = () => {
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <span className="skilltagline">Frontend Development</span>
-                                <ul className = "skilllist">
+                                {/* <ul className = "skilllist">
                                   <li>React.JS</li>
                                   <li>Angular.JS</li>
                                   <li>Vue.JS</li>
                                   <li>HTML5/CSS3</li>
-                                </ul>
+                                </ul> */}
 
                             </div>
                             <div className="item">
                               <span className="skilltagline">Backend Development</span>
                               <ul className = "skilllist">
-                                <li>Spring Boot/Cloud(MVC)</li>
+                                {/* <li>Spring Boot/Cloud(MVC)</li>
                                 <li>Node.js/Express.js/Next.js</li>
                                 <li>Flask & Django</li>
-                                <li>Microsoft .NET</li>
+                                <li>Microsoft .NET</li> */}
                               </ul>
                             </div>
                             <div className="item">
-                              <span className="skilltagline">Cloud Computing & Service</span>
+                              <span className="skilltagline">Cloud Computing Platform</span>
                                 <ul className = "skilllist">
-                                  <li>Amazon Web Service(AWS)</li>
+                                  {/* <li>Amazon Web Service(AWS)</li>
                                   <li>Microsoft Azure</li>
-                                  <li>Google Cloud Platform</li>
+                                  <li>Google Cloud Platform</li> */}
                                 </ul>
                             </div>
                             <div className="item">
                               <span className="skilltagline">Databases & Big Data</span>
-                                  <ul className = "skilllist">
+                                  {/* <ul className = "skilllist">
                                     <li>PostgreSQL & GraphQL</li>
                                     <li>Microsoft SQL Server & T-SQL</li>
                                     <li>MySQL</li>
@@ -77,9 +77,9 @@ export const Skills = () => {
                                     <li>Redis</li>
                                     <li>MongoDB</li>
                                     <li>Elastic Search</li>
-                                  </ul>
+                                  </ul> */}
                             </div>
-                            <div className="item">
+                            {/* <div className="item">
                               <span className="skilltagline">Tools & Platforms</span>
                                   <ul className = "skilllist">
                                     <li>Git</li>
@@ -89,7 +89,7 @@ export const Skills = () => {
                                     <li>Selenium</li>
                                     
                                   </ul>
-                            </div>
+                            </div> */}
                         </Carousel>
                     </div>
                 </div>
